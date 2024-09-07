@@ -4,13 +4,13 @@
 #include <PubSubClient.h>
 
 
-#define WIFI_SSID "Airties_Air4960R_RN77"
-#define WIFI_PASSWORD "ytddfc7888"
+#define WIFI_SSID "your_wifi_name"
+#define WIFI_PASSWORD "wifi_password"
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_Port 465
-#define sender_email "g.server0403@gmail.com"
-#define sender_password "kmfatmgdzaamzglk"
-#define Recipient_email "g.server0403@gmail.com"
+#define sender_email "your_mail_address"
+#define sender_password "your_mail_app_password"
+#define Recipient_email "recipient_email_address"
 #define Recipient_name ""
 
 // Set Node-Red attributes
